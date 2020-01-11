@@ -1,0 +1,4 @@
+程序说明：
+1.用了Mine结构，获得的位姿数据精度是0.64,0.48左右。
+2.计算平均值的顺序是，先用test_pose生成序列，然后用compute_all_abs_error生成绝对位姿序列，最后执行：
+python ./tools/evaluation_tools.py --func eval_odom --odom_result_dir pose_abs

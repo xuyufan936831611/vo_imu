@@ -1,0 +1,80 @@
+evaluate 09:
+result of :model-107037
+ATE mean: 0.0100, std: 0.0055
+result of :model-127425
+ATE mean: 0.0098, std: 0.0054
+result of :model-20388
+ATE mean: 0.0128, std: 0.0087
+result of :model-142716
+ATE mean: 0.0094, std: 0.0052
+result of :model-25485
+ATE mean: 0.0122, std: 0.0068
+result of :model-178395
+ATE mean: 0.0099, std: 0.0049
+result of :model-50970
+ATE mean: 0.0106, std: 0.0060
+result of :model-193686
+ATE mean: 0.0093, std: 0.0050
+result of :model-61164
+ATE mean: 0.0103, std: 0.0058
+result of :model-40776
+ATE mean: 0.0111, std: 0.0060
+result of :model-158007
+ATE mean: 0.0098, std: 0.0052
+result of :model-81552
+ATE mean: 0.0102, std: 0.0054
+result of :model-112134
+ATE mean: 0.0098, std: 0.0052
+result of :model-122328
+ATE mean: 0.0095, std: 0.0052
+result of :model-91746
+ATE mean: 0.0099, std: 0.0057
+result of :model-132522
+ATE mean: 0.0092, std: 0.0051
+result of :model-35679
+ATE mean: 0.0111, std: 0.0065
+result of :model-71358
+ATE mean: 0.0098, std: 0.0056
+result of :model-137619
+ATE mean: 0.0095, std: 0.0054
+result of :model-117231
+ATE mean: 0.0102, std: 0.0053
+result of :model-168201
+ATE mean: 0.0097, std: 0.0050
+result of :model-188589
+ATE mean: 0.0094, std: 0.0050
+result of :model-45873
+ATE mean: 0.0112, std: 0.0059
+result of :model-86649
+ATE mean: 0.0102, std: 0.0056
+result of :model-147813
+ATE mean: 0.0100, std: 0.0053
+result of :model-5097
+ATE mean: 0.0195, std: 0.0110
+result of :model-76455
+ATE mean: 0.0096, std: 0.0057
+result of :model-152910
+ATE mean: 0.0096, std: 0.0052
+result of :model-96843
+ATE mean: 0.0099, std: 0.0055
+result of :model-101940
+ATE mean: 0.0097, std: 0.0056
+result of :model-173298
+ATE mean: 0.0097, std: 0.0051
+result of :model-183492
+ATE mean: 0.0097, std: 0.0049
+result of :model-66261
+ATE mean: 0.0103, std: 0.0057
+result of :model-15291
+ATE mean: 0.0142, std: 0.0090
+result of :model-30582
+ATE mean: 0.0108, std: 0.0062
+result of :model-10194
+ATE mean: 0.0161, std: 0.0105
+result of :model-56067
+ATE mean: 0.0099, std: 0.0056
+result of :model-163104
+ATE mean: 0.0094, std: 0.0052
+result of :model.latest
+ATE mean: 0.0094, std: 0.0052
+
